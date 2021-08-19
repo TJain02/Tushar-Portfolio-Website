@@ -103,6 +103,7 @@ hr {
     padding: 2rem;
     border-top-right-radius: 1rem;
     border-bottom-left-radius: 1rem;
+    text-align: center;
 }
 .section h1 {
     text-align: center;
@@ -112,6 +113,7 @@ hr {
     background-color: var(--light-indigo);
     border-top-right-radius: 1rem;
     border-bottom-left-radius: 1rem;
+    text-align: center;
 }
 
 /* footer */
